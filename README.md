@@ -14,16 +14,17 @@ a `requirements.txt` file.
 
 ### How to use
 #### Install requirements
-```bash
+
+```
 pip install -r requirements.txt
 ```
 
 #### Run weather now
-```bash
+```
 python weather.py -h
 ```
 
-### or with ip address
-```bash
+#### or with ip address
+```
 python weather.py -ip 17.0.0.0
 ```
