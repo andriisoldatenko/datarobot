@@ -21,7 +21,8 @@ pip install -r requirements.txt
 
 #### Run weather now
 ```
-python weather.py -h
+python weather.py
+Today it's 63° ☀ and sky is clear
 ```
 
 #### or with ip address
